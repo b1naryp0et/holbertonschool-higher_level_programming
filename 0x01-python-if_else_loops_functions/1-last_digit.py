@@ -6,7 +6,7 @@ if number < 0:
     d = -1 * d
 if d > 5:
     print("The last digit of", number, "is", d, "and is greater than 5")
-elif d > 0:
+elif d == 0:
     print("The last digit of", number, "is", d, "and is 0")
 elif d < 6:
     print("The last digit of", number, "is", d, "and is less than 6 and not 0")
