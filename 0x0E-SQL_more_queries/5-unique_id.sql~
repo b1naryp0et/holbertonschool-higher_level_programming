@@ -1,0 +1,2 @@
+-- Script which creates table on server
+SHOW CREATE TABLE first_table;

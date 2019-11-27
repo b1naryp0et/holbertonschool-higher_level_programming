@@ -1,0 +1,2 @@
+-- Script which creates db on server
+SELECT * FROM first_table;
