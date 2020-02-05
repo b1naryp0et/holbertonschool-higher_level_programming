@@ -1,5 +1,5 @@
 #!/usr/bin/node
-const numargs = require('numargs');
+const numargs = require('process');
 if (numargs.argv.length === 2) {
   console.log('No argument');
 } else if (numargs.argv.length === 3) {
